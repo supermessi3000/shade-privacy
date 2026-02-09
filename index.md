@@ -1,8 +1,8 @@
-# Privacy Policy for Shade
+# Privacy Policy for GhostGuard
 
 **Last updated:** February 2026
 
-Shade (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Shade mobile application.
+GhostGuard (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the Shade mobile application.
 
 ---
 
